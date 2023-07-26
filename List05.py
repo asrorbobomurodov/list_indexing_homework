@@ -7,4 +7,5 @@ def main(list1,i):
     Returns:
         list: return answer
     """
-    return
+    return list1[i]
+print(main(["Davron","Navruz",24,3.2], 2))

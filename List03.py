@@ -7,4 +7,5 @@ def main(list1,list2):
     Returns:
         list: return answer
     """
-    return
+    return list1 + list2
+print(main(["a", 1, 8, "cat"], ["b","save", 8]))
